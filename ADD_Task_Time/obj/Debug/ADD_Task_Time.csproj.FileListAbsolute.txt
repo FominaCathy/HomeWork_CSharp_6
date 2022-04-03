@@ -1,0 +1,16 @@
+C:\_GB\01. Программирование\C#\HomeWork_7\ADD_Task_Time\bin\Debug\ADD_Task_Time.exe.config
+C:\_GB\01. Программирование\C#\HomeWork_7\ADD_Task_Time\bin\Debug\ADD_Task_Time.exe
+C:\_GB\01. Программирование\C#\HomeWork_7\ADD_Task_Time\bin\Debug\ADD_Task_Time.pdb
+C:\_GB\01. Программирование\C#\HomeWork_7\ADD_Task_Time\obj\Debug\ADD_Task_Time.csproj.AssemblyReference.cache
+C:\_GB\01. Программирование\C#\HomeWork_7\ADD_Task_Time\obj\Debug\ADD_Task_Time.csproj.SuggestedBindingRedirects.cache
+C:\_GB\01. Программирование\C#\HomeWork_7\ADD_Task_Time\obj\Debug\ADD_Task_Time.csproj.CoreCompileInputs.cache
+C:\_GB\01. Программирование\C#\HomeWork_7\ADD_Task_Time\obj\Debug\ADD_Task_Time.exe
+C:\_GB\01. Программирование\C#\HomeWork_7\ADD_Task_Time\obj\Debug\ADD_Task_Time.pdb
+C:\_GB\01. Программирование\C#\HomeWork_6\ADD_Task_Time\bin\Debug\ADD_Task_Time.exe.config
+C:\_GB\01. Программирование\C#\HomeWork_6\ADD_Task_Time\bin\Debug\ADD_Task_Time.exe
+C:\_GB\01. Программирование\C#\HomeWork_6\ADD_Task_Time\bin\Debug\ADD_Task_Time.pdb
+C:\_GB\01. Программирование\C#\HomeWork_6\ADD_Task_Time\obj\Debug\ADD_Task_Time.csproj.AssemblyReference.cache
+C:\_GB\01. Программирование\C#\HomeWork_6\ADD_Task_Time\obj\Debug\ADD_Task_Time.csproj.SuggestedBindingRedirects.cache
+C:\_GB\01. Программирование\C#\HomeWork_6\ADD_Task_Time\obj\Debug\ADD_Task_Time.csproj.CoreCompileInputs.cache
+C:\_GB\01. Программирование\C#\HomeWork_6\ADD_Task_Time\obj\Debug\ADD_Task_Time.exe
+C:\_GB\01. Программирование\C#\HomeWork_6\ADD_Task_Time\obj\Debug\ADD_Task_Time.pdb
