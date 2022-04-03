@@ -1,0 +1,8 @@
+C:\_GB\01. Программирование\C#\HomeWork_6\Task_41\bin\Debug\Task_41.exe.config
+C:\_GB\01. Программирование\C#\HomeWork_6\Task_41\bin\Debug\Task_41.exe
+C:\_GB\01. Программирование\C#\HomeWork_6\Task_41\bin\Debug\Task_41.pdb
+C:\_GB\01. Программирование\C#\HomeWork_6\Task_41\obj\Debug\Task_41.csproj.AssemblyReference.cache
+C:\_GB\01. Программирование\C#\HomeWork_6\Task_41\obj\Debug\Task_41.csproj.SuggestedBindingRedirects.cache
+C:\_GB\01. Программирование\C#\HomeWork_6\Task_41\obj\Debug\Task_41.csproj.CoreCompileInputs.cache
+C:\_GB\01. Программирование\C#\HomeWork_6\Task_41\obj\Debug\Task_41.exe
+C:\_GB\01. Программирование\C#\HomeWork_6\Task_41\obj\Debug\Task_41.pdb
